@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.userapi.UserApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.961 s - in br.com.userapi.UserApiApplicationTests

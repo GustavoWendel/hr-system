@@ -1,0 +1,10 @@
+br\com\userapi\services\UserService.class
+br\com\userapi\services\impl\UserServices.class
+br\com\userapi\UserApiApplication.class
+br\com\userapi\resources\exceptions\ResourceExceptionHandler.class
+br\com\userapi\resources\UserResources.class
+br\com\userapi\repositories\UserRepository.class
+br\com\userapi\domain\User.class
+br\com\userapi\services\exceptions\ResourceNotFoundException.class
+br\com\userapi\resources\exceptions\StandardError.class
+br\com\userapi\resources\impl\UserResourcesImpl.class
