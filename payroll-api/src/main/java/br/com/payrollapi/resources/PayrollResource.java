@@ -1,15 +1,10 @@
 package br.com.payrollapi.resources;
 
 import br.com.payrollapi.domain.Payroll;
-import br.com.payrollapi.domain.User;
-import br.com.payrollapi.feignclients.UserFeignClient;
 import br.com.payrollapi.services.PayrollService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
-import org.springframework.util.ObjectUtils;
 import org.springframework.web.bind.annotation.*;
-
-import java.util.Objects;
 
 @RestController
 @RequiredArgsConstructor
